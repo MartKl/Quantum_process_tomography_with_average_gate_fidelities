@@ -1,0 +1,47 @@
+# Mac
+
+.DS_Store
+
+
+# LaTeX
+
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.backup
+
+
+# latexmk
+
+*.fdb_latexmk
+*.fls
+*.jnt
+
+# BibTeX
+
+*.bbl
+*.blg
+
+# Matlab
+*.asv
+
+#other
+.dropbox
+desktop.ini
+MinSampComplOfProcTomNotes.bib
+j.txt
+anz.txt
+git-QPT_from_AGFs/
+
+# Compiled PDFs
+#
+# Note: PDFs for figures will be ignored *unless* they are in a subdirectory!
+
+/*.pdf
+# let's ignore all of them:
+#*.pdf
+
+#specific to this project
+SPAM-stable_process_tomNotes.bib

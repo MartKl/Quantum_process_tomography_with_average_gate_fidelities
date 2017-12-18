@@ -1,0 +1,17 @@
+HOST		  rep Nov. 25   | 27 | 1.12.	5.12.
+
+kcikbox
+Cliff_eta01		27, 31		46		100.
+Cliff_m01		36, 41		59		100.
+
+qmio03
+Haar_m01		11, 13		19		36		51
+Haar_eta01		11, 12		17		31		44
+
+qmio11
+Haar_m02		11, 12		17		37		56
+Haar_eta03		 1,  2		06		22		38
+
+
+Haar_eta  	38+44+38 > 100
+Haar_m		51+56 > 100
