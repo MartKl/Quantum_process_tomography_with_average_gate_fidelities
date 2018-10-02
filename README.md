@@ -1,5 +1,5 @@
 # Quantum_process_tomography_from_average_gate_fidelities
-Numerics accompanying a submission for QIP 2018 and the paper arxiv:[to be updated later]. 
+Numerics accompanying the paper Phys. Rev. Lett. [in production, to be updated later], [arXiv:1803.00572](https://arxiv.org/abs/1803.00572). 
 
 We use the shell scripts runmatlab.sh to run the simulations. In this way we can also work with a memory leak of Matlab+cvx+Mosek. 
 
